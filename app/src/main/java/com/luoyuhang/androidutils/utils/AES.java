@@ -6,7 +6,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 /**
  * 加密解密
- * Created by Administrator on 2017/8/9 0009.
+ * Created by luoyuhang on 2017/8/9 0009.
  */
 
 public class AES {
